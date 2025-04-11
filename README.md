@@ -1,4 +1,4 @@
-# 👨‍💻 | Olá, sou o [Seu Nome]!
+# 👨‍💻 | Olá, sou o Bryan !
 
 👨‍💻 Desenvolvedor com experiência em **Node.js**, **Express**, **MySQL** e **MariaDB**.  
 💻 Gosto de criar interfaces simples com **HTML** e **CSS**.  
@@ -23,14 +23,13 @@
 
 ---
 
-🎓 **Formado em [Nome do Curso]**
+🎓 **Se Formando em Entra21**
 
 ---
 
 ## 📬 Vamos conversar:
-- [LinkedIn](#)
-- [Twitter](#)
-- [Seu e-mail](#)
+
+- bryanfernandesse@gmail.com
 
 ---
 
