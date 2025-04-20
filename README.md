@@ -42,8 +42,9 @@ Um site desenvolvido como parte do projeto **Entra21**.
 
 ## 📫 Como me Encontrar
 
-🔹 **Discord**: Bryan#1234  
-🔹 **Email**: seuemail@email.com  
+🔹 **Discord**:
+🔹 **Email**: bryanfernandesse@gmail.com
+
 
 ---
 
