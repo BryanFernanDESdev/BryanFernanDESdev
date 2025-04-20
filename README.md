@@ -1,6 +1,6 @@
 # Olá, eu sou o Bryan! 👨‍💻
 
-![JavaScript GIF](https://media.giphy.com/media/cU1JleTYsF7b2/giphy.gif)
+![Hacking GIF](https://media.giphy.com/media/26FfQz5S5Vv4tDJ4Y/giphy.gif)
 
 ## 🚀 Sobre Mim
 
