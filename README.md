@@ -2,6 +2,8 @@
 
 # Olá, eu sou o Bryan! 👨‍💻
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+
 - 💻 Estudando redes, sistemas operacionais e segurança
 - 🎯 Sempre aprendendo algo novo em TI
 - 🧠 Autodidata e determinado
@@ -38,6 +40,12 @@
 
 - Discord: **Bryan#1234**
 - Email: **seuemail@email.com**
+
+---
+
+### 🐍 Snake dos commits
+
+![snake gif](https://github.com/BryanFernanDESdev/BryanFernanDESdev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
