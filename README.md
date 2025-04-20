@@ -40,7 +40,7 @@ Um site desenvolvido como parte do projeto **Entra21**.
 
 ## 📫 Como me Encontrar
 
-🔹 **Discord**: [Em branco]  
+🔹 **Discord**: 
 🔹 **Email**: bryanfernandesse@gmail.com  
 
 ---
