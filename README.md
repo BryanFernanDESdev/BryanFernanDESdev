@@ -1,6 +1,6 @@
 # Olá, eu sou o Bryan! 👨‍💻
 
-![Hacking GIF](https://media.giphy.com/media/26FfQz5S5Vv4tDJ4Y/giphy.gif)
+![Hacking GIF](https://i.giphy.com/media/3o6fJfONewgB5XHcR2/giphy.webp)
 
 ## 🚀 Sobre Mim
 
@@ -42,9 +42,8 @@ Um site desenvolvido como parte do projeto **Entra21**.
 
 ## 📫 Como me Encontrar
 
-🔹 **Discord**:
-🔹 **Email**: bryanfernandesse@gmail.com
-
+🔹 **Discord**: Bryan#1234  
+🔹 **Email**: seuemail@email.com  
 
 ---
 
