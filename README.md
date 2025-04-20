@@ -4,7 +4,7 @@
 
 🔹 **Estudante autodidata** nas áreas de redes, sistemas operacionais e segurança  
 🔹 Sempre em busca de **novos desafios** no mundo da TI  
-🔹 Focado em **hacking**, **Linux** e **cibersegurança**  
+🔹 Focado em **cybersegurança**, **backend JavaScript** e **Linux**  
 🔹 Uso **Parrot Security OS** no meu dia a dia para aprendizado prático
 
 ---
@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 
+## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanFernanDESdev&show_icons=true&theme=dracula)
 
@@ -40,8 +40,8 @@ Um site desenvolvido como parte do projeto **Entra21**.
 
 ## 📫 Como me Encontrar
 
-🔹 **Discord**: 
-🔹 **Email**: bryanfernandesse@gmail.com 
+🔹 **Discord**: [Em branco]  
+🔹 **Email**: bryanfernandesse@gmail.com  
 
 ---
 
