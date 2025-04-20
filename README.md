@@ -22,7 +22,9 @@
 
 ---
 
-(https://github-readme-stats.vercel.app/api?username=BryanFernanDESdev&show_icons=true&theme=dracula)
+## 📊 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanFernanDESdev&show_icons=true&theme=dracula)
 
 ---
 
@@ -39,8 +41,9 @@ Um site desenvolvido como parte do projeto **Entra21**.
 ## 📫 Como me Encontrar
 
 🔹 **Discord**: 
-🔹 **Email**: bryanfernandesse@gmail.com
+🔹 **Email**: bryanfernandesse@gmail.com 
 
 ---
 
-
+## 🧠 "A mente que se abre a uma nova ideia jamais volta ao seu tamanho original."  
+— Albert Einstein
