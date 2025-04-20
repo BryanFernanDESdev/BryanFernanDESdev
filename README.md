@@ -45,7 +45,8 @@
 
 ### 🐍 Snake dos commits
 
-![snake gif](https://github.com/BryanFernanDESdev/BryanFernanDESdev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/BryanFernanDESdev/BryanFernanDESdev/output/dist/github-contribution-grid-snake.svg)
+
 
 ---
 
