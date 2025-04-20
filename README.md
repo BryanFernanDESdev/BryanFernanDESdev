@@ -1,5 +1,7 @@
 # Olá, eu sou o Bryan! 👨‍💻
 
+![Perfil GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## 🚀 Sobre Mim
 
 🔹 **Estudante autodidata** nas áreas de redes, sistemas operacionais e segurança  
@@ -31,18 +33,10 @@
 ## 🚀 Projetos em Destaque
 
 ### 1. **[Projeto CS50 📘](https://github.com/BryanFernanDESdev/projeto-cs50)**
-- Um projeto baseado no famoso curso **CS50** da Harvard University.
-  
-### 2. **[Site Entra21 🌐](https://github.com/BryanFernanDESdev/projeto-entra21)**
-- Um site desenvolvido como parte de um curso sobre **desenvolvimento web**.
+Um projeto baseado no famoso curso **CS50** da Harvard University.
 
----
-
-## 🎨 **JavaScript Animated Icon**
-
-### Acompanhe meu progresso com o JavaScript! 💻🚀
-
-![JavaScript Animated Icon](https://raw.githubusercontent.com/hung1001/animated-icons/master/icons/javascript/javascript-animated-icon.gif)
+### 2. **[Projeto Entra21 🌐](https://github.com/BryanFernanDESdev/projeto-entra21)**
+Um site desenvolvido como parte do projeto **Entra21**.
 
 ---
 
