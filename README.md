@@ -1,14 +1,15 @@
 # Olá, eu sou o Bryan! 👨‍💻
 
-- 💻 Estudando redes, sistemas operacionais e segurança
-- 🎯 Sempre aprendendo algo novo em TI
-- 🧠 Autodidata e determinado
-- 🔍 Curioso por natureza, focado em hacking e Linux
-- 🧪 Usando Parrot Security OS no dia a dia
+## 🚀 Sobre Mim
+
+🔹 **Estudante autodidata** nas áreas de redes, sistemas operacionais e segurança  
+🔹 Sempre em busca de **novos desafios** no mundo da TI  
+🔹 Focado em **hacking**, **Linux** e **cibersegurança**  
+🔹 Uso **Parrot Security OS** no meu dia a dia para aprendizado prático
 
 ---
 
-### 💻 Linguagens e ferramentas que uso
+## 💻 Linguagens e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,27 +22,36 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanFernanDESdev&layout=compact&theme=dracula)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanFernanDESdev&show_icons=true&theme=dracula)
-
----
-
-### 🚀 Projetos em destaque
-
-- [Projeto CS50 📘](https://github.com/BryanFernanDESdev/projeto-cs50)
-- [Site Entra21 🌐](https://github.com/BryanFernanDESdev/projeto-entra21)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanFernanDESdev&show_icons=true&theme=dracula)
 
 ---
 
-### 🎯 Skills in Action (Typewriter Effect)
+## 🚀 Projetos em Destaque
 
-```javascript
-const bryan = {
-  studies: ["Networking", "OS", "Security", "Linux", "Hacking"],
-  tools: ["Node.js", "MySQL", "MariaDB", "Bash", "Parrot OS"],
-  learning: ["JavaScript", "Python", "Docker", "Cybersecurity"]
-}
+### 1. **[Projeto CS50 📘](https://github.com/BryanFernanDESdev/projeto-cs50)**
+- Um projeto baseado no famoso curso **CS50** da Harvard University.
+  
+### 2. **[Site Entra21 🌐](https://github.com/BryanFernanDESdev/projeto-entra21)**
+- Um site desenvolvido como parte de um curso sobre **desenvolvimento web**.
 
-console.log(bryan);
+---
+
+## 🎨 **JavaScript Animated Icon**
+
+### Acompanhe meu progresso com o JavaScript! 💻🚀
+
+![JavaScript Animated Icon](https://raw.githubusercontent.com/hung1001/animated-icons/master/icons/javascript/javascript-animated-icon.gif)
+
+---
+
+## 📫 Como me Encontrar
+
+🔹 **Discord**: Bryan#1234  
+🔹 **Email**: seuemail@email.com  
+
+---
+
+## 🧠 "A mente que se abre a uma nova ideia jamais volta ao seu tamanho original."  
+— Albert Einstein
