@@ -37,16 +37,12 @@
 
 ### 🎯 Skills in Action (Typewriter Effect)
 
-![Typewriter GIF](https://media.giphy.com/media/1dHeh7yG0bESNfLF5L/giphy.gif)
+```javascript
+const bryan = {
+  studies: ["Networking", "OS", "Security", "Linux", "Hacking"],
+  tools: ["Node.js", "MySQL", "MariaDB", "Bash", "Parrot OS"],
+  learning: ["JavaScript", "Python", "Docker", "Cybersecurity"]
+}
 
----
+console.log(bryan);
 
-### 📫 Como me encontrar
-
-- Discord: **Bryan#1234**
-- Email: **seuemail@email.com**
-
----
-
-### 🧠 "A mente que se abre a uma nova ideia jamais volta ao seu tamanho original."  
-— Albert Einstein
