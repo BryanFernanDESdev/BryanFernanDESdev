@@ -48,6 +48,7 @@
 ![snake gif](https://raw.githubusercontent.com/BryanFernanDESdev/BryanFernanDESdev/output/dist/github-contribution-grid-snake.svg)
 
 
+
 ---
 
 > 🧠 “A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.”  
