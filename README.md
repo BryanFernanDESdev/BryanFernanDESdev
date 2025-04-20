@@ -45,4 +45,3 @@ const bryan = {
 }
 
 console.log(bryan);
-
