@@ -1,6 +1,6 @@
 # Olá, eu sou o Bryan! 👨‍💻
 
-![Hacking GIF](https://media.giphy.com/media/2TnoHsyy7FJlq/giphy.gif)
+![Hacking GIF](https://media.giphy.com/media/l0HlTQUy5d53o6mN6/giphy.gif)
 
 ## 🚀 Sobre Mim
 
@@ -49,3 +49,4 @@ Um site desenvolvido como parte do projeto **Entra21**.
 
 ## 🧠 "A mente que se abre a uma nova ideia jamais volta ao seu tamanho original."  
 — Albert Einstein
+
