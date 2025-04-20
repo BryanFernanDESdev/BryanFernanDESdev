@@ -37,7 +37,7 @@
 
 ### 🎯 Skills in Action (Typewriter Effect)
 
-```txt
+```javascript
 const bryan = {
   studies: ["Networking", "OS", "Security", "Linux", "Hacking"],
   tools: ["Node.js", "MySQL", "MariaDB", "Bash", "Parrot OS"],
