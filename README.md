@@ -1,8 +1,4 @@
-<img align="right" height="200" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
-
 # Olá, eu sou o Bryan! 👨‍💻
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 
 - 💻 Estudando redes, sistemas operacionais e segurança
 - 🎯 Sempre aprendendo algo novo em TI
@@ -14,8 +10,11 @@
 
 ### 💻 Linguagens e ferramentas que uso
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003B57?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-008080?style=for-the-badge&logo=parrot-security&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -32,24 +31,17 @@
 ### 🚀 Projetos em destaque
 
 - [Projeto CS50 📘](https://github.com/BryanFernanDESdev/projeto-cs50)
-- [Entra21 App Android 📱](https://github.com/BryanFernanDESdev/projeto-entra21)
+- [Site Entra21 🌐](https://github.com/BryanFernanDESdev/projeto-entra21)
 
 ---
 
-### 📫 Como me encontrar
+### 🎯 Skills in Action (Typewriter Effect)
 
-- Discord: **Bryan#1234**
-- Email: **seuemail@email.com**
+```txt
+const bryan = {
+  studies: ["Networking", "OS", "Security", "Linux", "Hacking"],
+  tools: ["Node.js", "MySQL", "MariaDB", "Bash", "Parrot OS"],
+  learning: ["JavaScript", "Python", "Docker", "Cybersecurity"]
+}
 
----
-
-### 🐍 Snake dos commits
-
-![snake gif](https://raw.githubusercontent.com/BryanFernanDESdev/BryanFernanDESdev/output/dist/github-contribution-grid-snake.svg)
-
-
-
----
-
-> 🧠 “A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.”  
-> — Albert Einstein
+console.log(bryan);
