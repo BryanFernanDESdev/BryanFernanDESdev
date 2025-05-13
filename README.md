@@ -5,7 +5,7 @@
 🔹 **Estudante autodidata** nas áreas de redes, sistemas operacionais e segurança  
 🔹 Sempre em busca de **novos desafios** no mundo da TI  
 🔹 Focado em **cybersegurança**, **backend JavaScript** e **Linux**  
-🔹 Uso **Parrot Security OS** no meu dia a dia para aprendizado prático
+
 
 ---
 
