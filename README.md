@@ -7,25 +7,30 @@ Atualmente **curso Ciência da Computação**, enquanto desenvolvo projetos, pra
 
 ---
 
-## 📚 Formação Técnica – Entra21 (JavaScript)
+## 📚 Conhecimentos em Programação
 
-Participei do programa **Entra21 – Trilha JavaScript**, onde desenvolvi conhecimentos em:
+Tenho experiência com:
 
-- Fundamentos de **JavaScript**
-- Lógica de programação e algoritmos
-- Integração entre **JavaScript e HTML**
-- Estruturação e organização de código
-- Uso de bibliotecas e plugins
-- Introdução a frameworks JavaScript
-- Desenvolvimento de projetos práticos
+### 🔧 JavaScript
+- Fundamentos da linguagem  
+- Manipulação da DOM  
+- Lógica de programação e algoritmos  
+- Modularização e boas práticas  
+- Integração com HTML e Web APIs  
+
+### 🧩 Bibliotecas e Frameworks que conheço
+- **Express.js** (API e back-end básico)
+- **Svelte** (utilizado no projeto Rhythm)
+- **React** (conceitos iniciais)
+- **jQuery** (para manipulação web clássica)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 Rhythm – Projeto Entra21  
+### 🔹 Rhythm – Projeto Web  
 Repositório: https://github.com/BryanFernanDESdev/Rhythm-ProjetoEntra21  
-Projeto desenvolvido como parte do Entra21, aplicando JavaScript, integração web e boas práticas de desenvolvimento.
+Aplicação web utilizando JavaScript, Svelte e boas práticas de desenvolvimento.
 
 ---
 
@@ -56,6 +61,12 @@ Projeto desenvolvido como parte do Entra21, aplicando JavaScript, integração w
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanFernanDESdev&layout=compact&theme=react&border_radius=8"/>
 
 </div>
+
+---
+
+## 🐍 Minhas Contribuições
+
+![Snake animation](https://github.com/BryanFernanDESdev/BryanFernanDESdev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
