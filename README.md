@@ -7,6 +7,11 @@ Atualmente **curso Ciência da Computação**, enquanto desenvolvo projetos, pra
 
 ---
 
+
+
+![snake gif](https://raw.githubusercontent.com/BryanFernanDESdev/BryanFernanDESdev/main/dist/github-contribution-grid-snake.svg)
+
+
 ## 📚 Conhecimentos em Programação
 
 Tenho experiência com:
@@ -61,14 +66,7 @@ Aplicação web utilizando JavaScript, Svelte e boas práticas de desenvolviment
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanFernanDESdev&layout=compact&theme=react&border_radius=8"/>
 
 </div>
-
 ---
-
-
-
-![snake gif](https://raw.githubusercontent.com/BryanFernanDESdev/BryanFernanDESdev/main/dist/github-contribution-grid-snake.svg)
-
-
 
 ---
 
