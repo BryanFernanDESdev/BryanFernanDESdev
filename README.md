@@ -64,7 +64,7 @@ Aplicação web utilizando JavaScript, Svelte e boas práticas de desenvolviment
 
 ---
 
-## 🐍 Minhas Contribuições
+
 
 ![snake gif](https://raw.githubusercontent.com/BryanFernanDESdev/BryanFernanDESdev/main/dist/github-contribution-grid-snake.svg)
 
